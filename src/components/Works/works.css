@@ -1,0 +1,102 @@
+#works {
+    margin: 0 auto;
+    min-height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 60rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 0 1rem;
+}
+
+.worksTitle {
+    margin: 1rem 0;
+    font-size: 3rem;
+}
+
+.worksDesc {
+    font-weight: 300;
+    font-size: 1rem;
+    max-width: 45rem;
+}
+
+.worksImgs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+    max-width: 65rem;
+}
+
+/* .worksImg {
+    object-fit: cover;
+    height: 20rem;
+    margin: 0.5rem;
+    border: 3px solid rgb(50, 50, 50);; 
+    border-radius: 0.5rem; 
+} */
+
+.worksImgContainer {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 0.5rem; /* Same rounded corners as the images */
+    margin: 0.5rem;
+}
+
+.worksImg {
+    object-fit: cover;
+    height: 20rem;
+    width: 100%; /* Ensure the image fills the container */
+    border: 3px solid rgb(50, 50, 50);
+    border-radius: 0.5rem;
+    transition: transform 0.3s ease-in-out; /* Optional zoom effect */
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Gray semi-transparent layer */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 0.5rem; /* Match the rounded corners */
+}
+
+.projectName {
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+.worksImgContainer:hover .overlay {
+    opacity: 1; /* Show the overlay on hover */
+}
+
+.worksImgContainer:hover .worksImg {
+    transform: scale(1.05); /* Optional zoom effect on the image */
+}
+
+.workBtn {
+    margin: 3rem 0;
+    padding: 0.5rem 2.5rem;
+    border: none;
+    background: white;
+    border-radius: 2rem;
+    font-size: 1rem;
+}
+
+@media screen and (max-width:585px) {
+    .worksImg {
+        height: 48vw;
+    }
+}
