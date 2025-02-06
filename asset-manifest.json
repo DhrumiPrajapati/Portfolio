@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/DhrumiPrajapati/Portfolio/static/css/main.5cb0b96c.css",
-    "main.js": "/DhrumiPrajapati/Portfolio/static/js/main.d6e0d9cf.js",
-    "static/media/image.png": "/DhrumiPrajapati/Portfolio/static/media/image.fe4df49d2332a688d65a.png",
-    "static/media/internship.jpg": "/DhrumiPrajapati/Portfolio/static/media/internship.18a48b4108ef8b6adca2.jpg",
-    "static/media/portfolio11.jpg": "/DhrumiPrajapati/Portfolio/static/media/portfolio11.767298c82d8d9384ed48.jpg",
-    "static/media/portfolio22.jpg": "/DhrumiPrajapati/Portfolio/static/media/portfolio22.16d805e9001e69f96cd9.jpg",
-    "static/media/portfolio33.jpg": "/DhrumiPrajapati/Portfolio/static/media/portfolio33.a0ab5e5337a0b5baff48.jpg",
-    "static/media/logo2.png": "/DhrumiPrajapati/Portfolio/static/media/logo2.925a6bf9af34d0213365.png",
-    "static/media/college.png": "/DhrumiPrajapati/Portfolio/static/media/college.30fcc970d552e8aeba5f.png",
-    "static/media/university.png": "/DhrumiPrajapati/Portfolio/static/media/university.11f90257328c0b5582ef.png",
-    "static/media/school.png": "/DhrumiPrajapati/Portfolio/static/media/school.c1b886473193d57c80e4.png",
-    "static/media/job.png": "/DhrumiPrajapati/Portfolio/static/media/job.9099b33ba6c4fbec4d8e.png",
-    "static/media/ui-design.png": "/DhrumiPrajapati/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "index.html": "/DhrumiPrajapati/Portfolio/index.html",
-    "main.5cb0b96c.css.map": "/DhrumiPrajapati/Portfolio/static/css/main.5cb0b96c.css.map",
-    "main.d6e0d9cf.js.map": "/DhrumiPrajapati/Portfolio/static/js/main.d6e0d9cf.js.map"
+    "main.css": "/Portfolio/static/css/main.5cb0b96c.css",
+    "main.js": "/Portfolio/static/js/main.6ab000b6.js",
+    "static/media/image.png": "/Portfolio/static/media/image.fe4df49d2332a688d65a.png",
+    "static/media/internship.jpg": "/Portfolio/static/media/internship.18a48b4108ef8b6adca2.jpg",
+    "static/media/portfolio11.jpg": "/Portfolio/static/media/portfolio11.767298c82d8d9384ed48.jpg",
+    "static/media/portfolio22.jpg": "/Portfolio/static/media/portfolio22.16d805e9001e69f96cd9.jpg",
+    "static/media/portfolio33.jpg": "/Portfolio/static/media/portfolio33.a0ab5e5337a0b5baff48.jpg",
+    "static/media/logo2.png": "/Portfolio/static/media/logo2.925a6bf9af34d0213365.png",
+    "static/media/college.png": "/Portfolio/static/media/college.30fcc970d552e8aeba5f.png",
+    "static/media/university.png": "/Portfolio/static/media/university.11f90257328c0b5582ef.png",
+    "static/media/school.png": "/Portfolio/static/media/school.c1b886473193d57c80e4.png",
+    "static/media/job.png": "/Portfolio/static/media/job.9099b33ba6c4fbec4d8e.png",
+    "static/media/ui-design.png": "/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "index.html": "/Portfolio/index.html",
+    "main.5cb0b96c.css.map": "/Portfolio/static/css/main.5cb0b96c.css.map",
+    "main.6ab000b6.js.map": "/Portfolio/static/js/main.6ab000b6.js.map"
   },
   "entrypoints": [
     "static/css/main.5cb0b96c.css",
-    "static/js/main.d6e0d9cf.js"
+    "static/js/main.6ab000b6.js"
   ]
 }
