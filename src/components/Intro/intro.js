@@ -58,12 +58,12 @@ const Intro = () => {
                 </span>
                 <p className='intropara'>"Passionate about technology, driven by curiosity!"</p>
                 
-                //<a href={`${process.env.PUBLIC_URL}/DhrumiPrajapati_Resume.pdf`} target="_blank" rel="noopener noreferrer" className='hiremebtnlink'>
-                    //<button className='btn'>
-                      //  <img src={btnImg} alt='Hire Me' className='btnImg' />
-                        //Hire Me
-                    //</button>
-                //</a>
+//                <a href={`${process.env.PUBLIC_URL}/DhrumiPrajapati_Resume.pdf`} target="_blank" rel="noopener noreferrer" className='hiremebtnlink'>
+//                    <button className='btn'>
+//                        <img src={btnImg} alt='Hire Me' className='btnImg' />
+//                        Hire Me
+//                    </button>
+//                </a>
                 
             </div>
             <img src={bg} alt='Profile' className='bg' />
